@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachwjh Rachel :)
 - 👀 I’m interested in learning python and automating menial tasks for my work AND learning how people develop games.
-- 🌱 I’m currently learning python 3 - very basic level.
+- 🌱 I’m currently learning python 3 - just the basics!
 - 📫 How to reach me: rachwjh@gmail.com
 
 <!---
